@@ -1,4 +1,1 @@
-family_law
-==========
-
-The Sacred Law of the House of Kali-Ma
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">The Sacred Law of the House of Kali-Ma</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="www.github.com/philculmer/family_law" property="cc:attributionName" rel="cc:attributionURL">Brother Phil Culmer</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
